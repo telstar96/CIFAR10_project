@@ -10,4 +10,4 @@ You will also need to install the following Python libraries:
 - torchvision
 
 You can install these libraries using pip
-# CIFAR10_project
+
